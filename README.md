@@ -1,1 +1,1 @@
-https://github.com/artmqa88/rsschool-cv/cv
+https://artmqa88.github.io/rsschool-cv/
